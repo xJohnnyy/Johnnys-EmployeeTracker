@@ -4,10 +4,10 @@ const cfonts = require('cfonts');
 
 const connection = mysql.createConnection({
     host: "localhost",
-    port: 3306,
     user: "root",
-    password: "",
-    database: "employeeTracker_db",
+    port: "3306",
+    database: "mysql",
+    password: "employeetracker",
 });
 
 connection.connect((err) => {
