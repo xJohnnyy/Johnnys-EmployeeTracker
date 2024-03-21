@@ -16,7 +16,7 @@ connection.connect((err) => {
     start();
 });
 
-cfonts.say('Thomas & Friends \nSQL Employee Tracker', {
+cfonts.say('Johnny \nSQL Employee Tracker', {
 	font: 'block',              
 	align: 'left',              
 	colors: ['blue'],        
