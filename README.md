@@ -1,27 +1,18 @@
 # Johnny's Employee Tracker
 
 ## Description:
+In this weeks Challange we created an employee tracker using mysql sevrer. The tracker allows the user to see Departments, roles, and employees in a company. The user can also add, move, or delete departments, roles, or employees. 
 
 
 
-## GIF.
-### Figure 1. GIF Command line interface
-![](./assets/images/Demo.GIF)
-
-## Usage Instructions
-1. Open the content management systems (CMS) named "Thomas & Friends SQL Employee Tracker".
-2. Open 'Intergrated Terminal' on 'server.js' and enter 'node server.js'
-3. Use the 'UP' and 'DOWN' arrow keys to navigate the command line. 
-4. Click 'enter' or 'return' on your respective choice.
-5. Follow all commad line prompts as directed until desired choice has been met.
-6. Additionally, for more in-depth instructions [Click Here to Watch.](https://www.youtube.com/watch?v=m9CQxR0AfiQ)
+## Gif/Screenshot
+### Figure 1. Command line interface
+![](./assets/Screen%20Recording%202024-03-21%20at%206.58.24%20PM.gif)
 
 ## Repo Link:
 [Repo Link 'Click Here'.](https://github.com/xJohnnyy/Johnnys-EmployeeTracker.git)
 
 ## YouTube Walkthrough Video:
-[Click Here to Watch.]()
+[Click Here to Watch.](https://www.youtube.com/watch?v=-x0RCVBJRjI)
 
-## Screenshots.
-### Figure 1. Command line interface
-![](./assets/images/Module12-Screenshot.jpg)
+
